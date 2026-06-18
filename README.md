@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Mohamed 👋
 
-<!--
-**mohamedtalal-coder/mohamedtalal-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer passionate about turning ideas into products and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+💻 Building web applications with React.js, Next.js, Node.js, Spring Boot, PostgreSQL, MongoDB, and Prisma ORM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building a SaaS engineering marketplace and exploring modern software architecture, scalable systems, and developer tools.
+
+🌱 Always learning, always building, and always looking for ways to write better code than yesterday.
+
+📫 Open to Web Development Internship opportunities and exciting projects.
+
+⚡ Most of my free time somehow turns into a new project.
